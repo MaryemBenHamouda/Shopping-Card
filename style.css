@@ -1,0 +1,22 @@
+.shopping{
+    background-color: #515151;
+    padding: 10px;
+}
+input{
+    background: #515151;
+    border: transparent;
+}
+.fa-times{
+    color: red;
+}
+.container{
+    justify-content: center;
+    margin-top: 20px;
+}
+.col-sm{
+    display: flex;
+    align-content: center;
+}
+.red-heart{
+    color: red;
+}
